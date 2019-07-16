@@ -6,7 +6,7 @@ with existing libraries that provided by python is enough to do the hard project
 All you need to do is
 
 ```bash
-https://github.com/davidhuotkeo/Upload-Photo-With-Your-Voice.git
+git clone https://github.com/davidhuotkeo/Upload-Photo-With-Your-Voice.git
 
 cd Upload-Photo-With-Your-Voice
 
